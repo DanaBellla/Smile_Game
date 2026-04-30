@@ -13,11 +13,11 @@
     border: 15px solid green;
     padding: 10px;
     margin: 20px;
+    
   }
   .acertou {
     text-align: center;
     color: yellow;
-    background-color: LawnGreen;
     width: 150px;
     height: 200px;
     border: 15px solid yellow;
@@ -34,4 +34,20 @@
     border: 15px solid black;
     padding: 10px;
     margin: 20px;
+  }
+  h1{
+    text-align: center;
+    text-decoration:dashed;
+    font-family: Impact;
+    color:blue;
+  }
+  body{
+    text-align: center;
+    background-color: cyan;
+  }
+  div{
+    background-color: white;
+  }
+  #instagram{
+    width: 25%;
   }

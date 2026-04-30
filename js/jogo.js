@@ -59,10 +59,10 @@
       //altera a classe CSS da <div> escolhida pelo jogador (className)
       obj.className = "acertou";
       //Criar uma constante img que armazena um novo objeto imagem com largura de 100px
-      const img = new Image(100);
+      const img = new Image(100,120);
       img.id = "imagem";
       //altera o atributo src (source) da imagem criada
-      img.src = "https://upload.wikimedia.org/wikipedia/commons/2/2e/Oxygen480-emotes-face-smile-big.svg";
+      img.src = "imagens/Luca.png";
       //adiciona a imagem criada na div (obj) escolhida pelo jogador (appendChild)
       obj.appendChild(img);
     }
