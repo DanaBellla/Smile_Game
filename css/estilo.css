@@ -10,7 +10,7 @@
     background-color: lightgrey;
     width: 150px;
     height: 200px;
-    border: 15px solid green;
+    border: 15px solid rgb(16, 216, 242);
     padding: 10px;
     margin: 20px;
     
@@ -46,7 +46,7 @@
     background-color: cyan;
   }
   div{
-    background-color: white;
+    background-color: rgb(204, 235, 234);
   }
   #instagram{
     width: 25%;
